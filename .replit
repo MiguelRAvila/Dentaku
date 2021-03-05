@@ -1,2 +1,2 @@
-language = "rust"
-run = "cargo run -q"
+language = "python3"
+run = "python3 src/main.py"
